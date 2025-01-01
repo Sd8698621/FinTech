@@ -22,6 +22,18 @@ To operate as an NBFC, specific approvals and licenses from the Reserve Bank of 
 - **KYC & AML Policy:** Draft policies to meet RBI’s Know Your Customer (KYC) and Anti-Money Laundering (AML) norms.
 - **Statutory Auditor’s Certificate:** Certifying the company’s financial position and compliance.
 
+For Loan Services:
+- **CIBIL Membership:** To assess customer creditworthiness.
+- **Credit Risk Management Framework:** For evaluating and mitigating lending risks.
+
+For FD Services:
+- **RBI Approval for Deposit Acceptance:** Specific to NBFCs that accept fixed deposits.
+- **FD Scheme Documentation:** Clearly outlined terms and conditions for fixed deposits.
+
+For UPI Payment Services:
+- **Payment Aggregator License:** As mandated by RBI.
+- **UPI Integration Agreements:** With NPCI for enabling UPI services.
+
 ---
 
 ## 3. Data Protection & Compliance Documents
@@ -35,7 +47,8 @@ To operate as an NBFC, specific approvals and licenses from the Reserve Bank of 
 ## 4. Business Operations Documents
 - **Partnership Agreements:** If collaborating with banks, payment gateways, or third-party service providers.
 - **Merchant Onboarding Policy:** For UPI and payment aggregators.
-- **Loan Origination and Collection Policies:** If offering credit or BNPL services.
+- **Loan Origination and Collection Policies:** For offering credit services.
+- **Fixed Deposit Terms and Policies:** Outlining interest rates, maturity periods, and withdrawal terms.
 - **Service-Level Agreements (SLAs):** With vendors, technology providers, or cloud service platforms.
 
 ---
@@ -48,17 +61,8 @@ To operate as an NBFC, specific approvals and licenses from the Reserve Bank of 
 ---
 
 ## 6. Additional Documents for Specific Services
-### For Lending (if applicable):
-- **CIBIL Membership:** To assess customer creditworthiness.
-- **Credit Risk Management Framework:** For evaluating and mitigating lending risks.
-
-### For Insurance (if applicable):
-- **IRDAI License:** Approval from the Insurance Regulatory and Development Authority of India.
-- **Policy Underwriting Agreements:** If selling insurance products.
-
-### For Payments (if applicable):
-- **Payment Aggregator License:** As mandated by RBI.
-- **UPI Integration Agreements:** With NPCI for enabling UPI services.
+- **Marketing and Advertising Disclosures:** Ensuring transparency in promoting loan, FD, and payment services.
+- **Dispute Resolution Mechanisms:** Policies to address customer grievances effectively.
 
 ---
 
